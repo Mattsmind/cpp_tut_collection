@@ -1,0 +1,9 @@
+#Ignore all object files
+/*
+*.o
+
+# DON'T IGNORE THESE FILES
+!*.cpp
+!.gitignore
+!*/
+
